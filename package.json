@@ -1,5 +1,5 @@
 {
-  "name": "logger-sdk",
+  "name": "astro-logger-sdk",
   "version": "1.0.0",
   "description": "SDK for sending logs to AppLogger platform.",
   "main": "index.cjs",
