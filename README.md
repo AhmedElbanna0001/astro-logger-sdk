@@ -1,4 +1,4 @@
-# your-logger-sdk
+# logger-sdk
 
 Official SDK for sending logs to your AppLogger platform.
 
@@ -17,7 +17,7 @@ npm install logger-sdk
 ### CommonJS
 
 ```js
-const logger = require("your-logger-sdk");
+const logger = require("logger-sdk");
 
 logger.init({
   apiKey: "ak_your_api_key_here",
@@ -31,7 +31,7 @@ const result = await logger.log({ message: "Server started", level: "INFO" });
 ### ES Modules
 
 ```js
-import { init, log } from "your-logger-sdk";
+import { init, log } from "logger-sdk";
 
 init({
   apiKey: "ak_your_api_key_here",
