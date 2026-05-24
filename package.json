@@ -1,6 +1,6 @@
 {
   "name": "logger-sdk",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "SDK for sending logs to AppLogger platform.",
   "main": "index.cjs",
   "module": "index.mjs",
