@@ -1,0 +1,21 @@
+{
+  "name": "logger-sdk",
+  "version": "1.0.0",
+  "description": "SDK for sending logs to  AppLogger platform.",
+  "main": "index.cjs",
+  "module": "index.mjs",
+  "exports": {
+    ".": {
+      "require": "./index.cjs",
+      "import": "./index.mjs"
+    }
+  },
+  "files": [
+    "index.cjs",
+    "index.mjs",
+    "src/",
+    "README.md"
+  ],
+  "keywords": ["logging", "sdk", "applogger"],
+  "license": "MIT"
+}
