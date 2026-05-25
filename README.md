@@ -1,4 +1,4 @@
-# logger-sdk
+# astro-logger-sdk
 
 Official SDK for sending logs to your AppLogger platform.
 
